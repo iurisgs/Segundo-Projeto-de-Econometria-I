@@ -4,38 +4,41 @@ Este é um projeto de econometria desenvolvido por Iuri Soares, Mariana Tinouco 
 
 ## Sumário
 
-1. **Introdução**
-   1.1 Objetivo do Projeto
-   1.2 Equipe de Trabalho
-2. **Importação de Dados e Bibliotecas**
-   2.1 Importação de Pacotes e Bibliotecas
-   2.2 Importação dos Dados
-      2.2.1 Dataframe
-3. **Análise Gráfica**
-   3.1 Cálculo da Volatilidade
-   3.2 Gráfico das Volatilidades
-   3.3 Gráfico de Retornos
-   3.4 Gráfico de Boxplot
-   3.5 Gráfico de Linhas
-   3.6 Gráfico de Histograma
-   3.7 Gráfico de Dispersão
-   3.8 Mapa de calor
-   3.9 Explicação dos Gráficos e do Dataframe
-4. **Modelo OLS**
-   4.1 Explicação do .summary()
-   4.2 Plotando os Residuais
-      4.2.1 Explicação do Gráfico Residuais x Fitted Values
-5. **Testes de Heterocedasticidade**
-   5.1 Breush-Pagan Test
-      5.1.1 Análise do Teste Breush-Pagan
-   5.2 White Test (Cross Terms)
-      5.2.1 Análise do White Test (Cross Terms)
-6. **Modelo WLS**
-   6.1 Calculando Pesos (Weights)
-   6.2 Construindo o Modelo WLS
-      6.2.1 Explicação do .summary()
-7. **Autocorrelação**
-   7.1 Explicação do .summary()
+## Sumário
+
+1. [Introdução](#introdução)
+   1.1 [Objetivo do Projeto](#objetivo-do-projeto)
+   1.2 [Equipe de Trabalho](#equipe-de-trabalho)
+2. [Importação de Dados e Bibliotecas](#importação-de-dados-e-bibliotecas)
+   2.1 [Importação de Pacotes e Bibliotecas](#importação-de-pacotes-e-bibliotecas)
+   2.2 [Importação dos Dados](#importação-dos-dados)
+      2.2.1 [Dataframe](#dataframe)
+3. [Análise Gráfica](#análise-gráfica)
+   3.1 [Cálculo da Volatilidade](#cálculo-da-volatilidade)
+   3.2 [Gráfico das Volatilidades](#gráfico-das-volatilidades)
+   3.3 [Gráfico de Retornos](#gráfico-de-retornos)
+   3.4 [Gráfico de Boxplot](#gráfico-de-boxplot)
+   3.5 [Gráfico de Linhas](#gráfico-de-linhas)
+   3.6 [Gráfico de Histograma](#gráfico-de-histograma)
+   3.7 [Gráfico de Dispersão](#gráfico-de-dispersão)
+   3.8 [Mapa de calor](#mapa-de-calor)
+   3.9 [Explicação dos Gráficos e do Dataframe](#explicação-dos-gráficos-e-do-dataframe)
+4. [Modelo OLS](#modelo-ols)
+   4.1 [Explicação do .summary()](#explicação-do-summary)
+   4.2 [Plotando os Residuais](#plotando-os-residuais)
+      4.2.1 [Explicação do Gráfico Residuais x Fitted Values](#explicação-do-gráfico-residuais-x-fitted-values)
+5. [Testes de Heterocedasticidade](#testes-de-heterocedasticidade)
+   5.1 [Breush-Pagan Test](#breush-pagan-test)
+      5.1.1 [Análise do Teste Breush-Pagan](#análise-do-teste-breush-pagan)
+   5.2 [White Test (Cross Terms)](#white-test-cross-terms)
+      5.2.1 [Análise do White Test (Cross Terms)](#análise-do-white-test-cross-terms)
+6. [Modelo WLS](#modelo-wls)
+   6.1 [Calculando Pesos (Weights)](#calculando-pesos-weights)
+   6.2 [Construindo o Modelo WLS](#construindo-o-modelo-wls)
+      6.2.1 [Explicação do .summary()](#explicação-do-summary)
+7. [Autocorrelação](#autocorrelação)
+   7.1 [Explicação do .summary()](#explicação-do-summary)
+
 
 ## Visão Geral do Projeto
 
