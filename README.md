@@ -4,39 +4,21 @@ Este é um projeto de econometria desenvolvido por Iuri Soares, Mariana Tinouco 
 
 ## Sumário
 
-### Introdução
-   #### Objetivo do Projeto
-   #### Equipe de Trabalho
-### Importação de Dados e Bibliotecas
-   #### Importação de Pacotes e Bibliotecas
-   #### Importação dos Dados
-      ##### Dataframe
-### Análise Gráfica
-   #### Cálculo da Volatilidade
-   #### Gráfico das Volatilidades
-   #### Gráfico de Retornos
-   #### Gráfico de Boxplot
-   #### Gráfico de Linhas
-   #### Gráfico de Histograma
-   #### Gráfico de Dispersão
-   #### Mapa de calor
-   #### Explicação dos Gráficos e do Dataframe
-### Modelo OLS
-   #### Explicação do .summary()
-   #### Plotando os Residuais
-      ##### Explicação do Gráfico Residuais x Fitted Values
-### Testes de Heterocedasticidade
-   #### Breush-Pagan Test
-      ##### Análise do Teste Breush-Pagan
-   #### White Test (Cross Terms)
-      ##### Análise do White Test (Cross Terms)
-### Modelo WLS
-   #### Calculando Pesos (Weights)
-   #### Construindo o Modelo WLS
-      ##### Explicação do .summary()
-### Autocorrelação
-   #### Explicação do .summary()
+1. **Introdução**: Esta seção descreve o objetivo do projeto e apresenta a equipe de trabalho.
 
+2. **Importação de Dados e Bibliotecas**: Aqui, abordamos a importação de pacotes e bibliotecas, bem como a importação dos dados, incluindo detalhes sobre o dataframe utilizado.
+
+3. **Análise Gráfica**: Nesta parte, você encontrará informações sobre o cálculo da volatilidade, gráficos das volatilidades, retornos, boxplot, linhas, histograma, dispersão, mapa de calor e uma explicação detalhada dos gráficos e do dataframe.
+
+4. **Modelo OLS**: Esta seção explica o método `.summary()`, além de mostrar como plotar os residuais e sua interpretação, incluindo o gráfico de residuais x fitted values.
+
+5. **Testes de Heterocedasticidade**: Abordamos o Breush-Pagan Test, com uma análise correspondente, e o White Test (Cross Terms), com sua análise específica.
+
+6. **Modelo WLS**: Aqui, você encontrará informações sobre como calcular pesos (weights) e construir o modelo WLS, incluindo a interpretação do método `.summary()`.
+
+7. **Autocorrelação**: Finalmente, explicamos a autocorrelação e sua interpretação por meio do método `.summary()`.
+
+Este sumário oferece uma visão geral das seções e tópicos abordados no projeto de Econometria I. Para mais detalhes, consulte as seções individuais no arquivo.
 
 ## Visão Geral do Projeto
 
