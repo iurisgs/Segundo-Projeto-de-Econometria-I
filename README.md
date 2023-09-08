@@ -4,40 +4,38 @@ Este é um projeto de econometria desenvolvido por Iuri Soares, Mariana Tinouco 
 
 ## Sumário
 
-## Sumário
-
-1. [Introdução](#introdução)
-   1.1 [Objetivo do Projeto](#objetivo-do-projeto)
-   1.2 [Equipe de Trabalho](#equipe-de-trabalho)
-2. [Importação de Dados e Bibliotecas](#importação-de-dados-e-bibliotecas)
-   2.1 [Importação de Pacotes e Bibliotecas](#importação-de-pacotes-e-bibliotecas)
-   2.2 [Importação dos Dados](#importação-dos-dados)
-      2.2.1 [Dataframe](#dataframe)
-3. [Análise Gráfica](#análise-gráfica)
-   3.1 [Cálculo da Volatilidade](#cálculo-da-volatilidade)
-   3.2 [Gráfico das Volatilidades](#gráfico-das-volatilidades)
-   3.3 [Gráfico de Retornos](#gráfico-de-retornos)
-   3.4 [Gráfico de Boxplot](#gráfico-de-boxplot)
-   3.5 [Gráfico de Linhas](#gráfico-de-linhas)
-   3.6 [Gráfico de Histograma](#gráfico-de-histograma)
-   3.7 [Gráfico de Dispersão](#gráfico-de-dispersão)
-   3.8 [Mapa de calor](#mapa-de-calor)
-   3.9 [Explicação dos Gráficos e do Dataframe](#explicação-dos-gráficos-e-do-dataframe)
-4. [Modelo OLS](#modelo-ols)
-   4.1 [Explicação do .summary()](#explicação-do-summary)
-   4.2 [Plotando os Residuais](#plotando-os-residuais)
-      4.2.1 [Explicação do Gráfico Residuais x Fitted Values](#explicação-do-gráfico-residuais-x-fitted-values)
-5. [Testes de Heterocedasticidade](#testes-de-heterocedasticidade)
-   5.1 [Breush-Pagan Test](#breush-pagan-test)
-      5.1.1 [Análise do Teste Breush-Pagan](#análise-do-teste-breush-pagan)
-   5.2 [White Test (Cross Terms)](#white-test-cross-terms)
-      5.2.1 [Análise do White Test (Cross Terms)](#análise-do-white-test-cross-terms)
-6. [Modelo WLS](#modelo-wls)
-   6.1 [Calculando Pesos (Weights)](#calculando-pesos-weights)
-   6.2 [Construindo o Modelo WLS](#construindo-o-modelo-wls)
-      6.2.1 [Explicação do .summary()](#explicação-do-summary)
-7. [Autocorrelação](#autocorrelação)
-   7.1 [Explicação do .summary()](#explicação-do-summary)
+### Introdução
+   #### Objetivo do Projeto
+   #### Equipe de Trabalho
+### Importação de Dados e Bibliotecas
+   #### Importação de Pacotes e Bibliotecas
+   #### Importação dos Dados
+      ##### Dataframe
+### Análise Gráfica
+   #### Cálculo da Volatilidade
+   #### Gráfico das Volatilidades
+   #### Gráfico de Retornos
+   #### Gráfico de Boxplot
+   #### Gráfico de Linhas
+   #### Gráfico de Histograma
+   #### Gráfico de Dispersão
+   #### Mapa de calor
+   #### Explicação dos Gráficos e do Dataframe
+### Modelo OLS
+   #### Explicação do .summary()
+   #### Plotando os Residuais
+      ##### Explicação do Gráfico Residuais x Fitted Values
+### Testes de Heterocedasticidade
+   #### Breush-Pagan Test
+      ##### Análise do Teste Breush-Pagan
+   #### White Test (Cross Terms)
+      ##### Análise do White Test (Cross Terms)
+### Modelo WLS
+   #### Calculando Pesos (Weights)
+   #### Construindo o Modelo WLS
+      ##### Explicação do .summary()
+### Autocorrelação
+   #### Explicação do .summary()
 
 
 ## Visão Geral do Projeto
