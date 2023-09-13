@@ -1,4 +1,4 @@
-# Projeto de Econometria I
+# Analise de 3 ações x IBOV - Projeto de Econometria I
 
 Este é um projeto de econometria desenvolvido por Iuri Soares, Mariana Tinouco e Miguel Melo como parte do curso de Econometria I. O projeto envolve análise de dados econômicos e a aplicação de modelos econométricos para entender e interpretar os resultados. Este README fornecerá uma visão geral do projeto, seu conteúdo e como utilizá-lo.
 
